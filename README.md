@@ -32,9 +32,9 @@ Right click the button and connect it to viewcontroller.
 <img src="https://raw.githubusercontent.com/boyangzhang1993/swift-transcription/master/Screen%20Shot%202020-08-02%20at%2011.57.48%20AM.png" width="250">
 
 # Button functions
-You could use the ViewController.swift file I posed in this github. 
+You could use the ViewController, AppDelegate, and SceneDelegate file I posed in this github. 
 
-The following part is to explain most parts of it. 
+The following part is to explain some parts of it. 
 
 Inside the outlet, we first define three To-do functions. 
 ```
