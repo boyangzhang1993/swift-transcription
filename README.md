@@ -90,4 +90,7 @@ SFSpeechRecognizer is the main variable. We need to feed it with a path, and it 
 # Results 
 Finally, when we press this button, activity spinner will start spin and swift can call SFSpeechRecognizer to detect the most likely transcription.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BCdhAXtZOlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://raw.githubusercontent.com/boyangzhang1993/swift-transcription/master/Screen%20Shot%202020-08-02%20at%2012.38.31%20PM.png" width="250">
+
+<img src="https://raw.githubusercontent.com/boyangzhang1993/swift-transcription/master/Screen%20Recording%202020-08-02%20at%2012.19.02%20PM.gif" width="250">
+
